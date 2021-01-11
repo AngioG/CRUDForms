@@ -1,0 +1,10 @@
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\bin\Debug\CRUD forms.exe.config
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\bin\Debug\CRUD forms.exe
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\bin\Debug\CRUD forms.pdb
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\obj\Debug\CRUD forms.csprojAssemblyReference.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\obj\Debug\CRUD_forms.Form1.resources
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\obj\Debug\CRUD_forms.Properties.Resources.resources
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\obj\Debug\CRUD forms.csproj.GenerateResource.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\obj\Debug\CRUD forms.csproj.CoreCompileInputs.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\obj\Debug\CRUD forms.exe
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\CRUD forms\CRUD forms\obj\Debug\CRUD forms.pdb
